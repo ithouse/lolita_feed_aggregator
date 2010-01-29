@@ -1,0 +1,1 @@
+require File.join(File.dirname(__FILE__), 'lib', 'lolita_feed_aggregator')
