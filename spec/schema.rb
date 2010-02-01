@@ -1,8 +1,8 @@
 ActiveRecord::Schema.define :version => 0 do
   create_table "feed_aggregates", :force => true do |t|
     t.string   "name"
-    t.string   "value"
-    t.integer  "order_nr"
+    t.text     "value"
+    t.integer  "order_nr", :limit => 8
     t.datetime "created_at"
   end
 

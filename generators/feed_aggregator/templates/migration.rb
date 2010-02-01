@@ -3,7 +3,7 @@ class CreateFeedAggregates < ActiveRecord::Migration
     create_table :feed_aggregates do |t|
       t.string :name
       t.text :value
-      t.integer :order_nr, :limit => 15
+      t.integer :order_nr, :limit => 8
       t.timestamps
     end
     add_index :feed_aggregates, :name
