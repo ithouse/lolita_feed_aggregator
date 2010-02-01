@@ -5,35 +5,36 @@ require 'open-uri'
 # run ruby script/generate feed_aggregator
 #
 class Lolita::FeedAggregator
-    # Stores feed to database
-    # === Parameters
-    # * +key+ - feed name, like :twitter, :blog_rss ....
-    # * +url+ - feed url
-    # * +options+ -
-    #   * :limit - stores only
-    #   * :expire_after - if this option is given then the items are deleted only if they are older than this given value
-    #   * :order => "order_nr DESC" - according to this, the feed items will be deleted if :limit given
-    # === Examples
-    #
-    # Put this in config/feed_aggregator.rb
-    #
-    # aggregate(:twitter, "http://twitter.com/statuses/user_timeline.xml?screen_name=gacha", :limit => 10) do |doc|
-    #   (doc/:status).collect do |item|
-    #     {
-    #       :created_at => (item/:created_at).inner_html,
-    #       :value => item,
-    #       :order_nr => (item/:id).first.inner_html
-    #     }
-    #   end
-    # end
-    #
-    # Then fetch data:
-    #
-    # tweets = FeedAggregate.find_all_by_name("twitter")
-    # tweets.each{|tweet| puts (tweet.value/:status/:text).inner_html}
-    #
-    def self.aggregate key, url, options = {}
-      items = yield Hpricot.XML(open(url))
+  # Stores feed to database
+  # === Parameters
+  # * +key+ - feed name, like :twitter, :blog_rss ....
+  # * +url+ - feed url
+  # * +options+ -
+  #   * :limit - stores only
+  #   * :expire_after - if this option is given then the items are deleted only if they are older than this given value
+  #   * :order => "order_nr DESC" - according to this, the feed items will be deleted if :limit given
+  # === Examples
+  #
+  # Put this in config/feed_aggregator.rb
+  #
+  # aggregate(:twitter, "http://twitter.com/statuses/user_timeline.xml?screen_name=gacha", :limit => 10) do |doc|
+  #   (doc/:status).collect do |item|
+  #     {
+  #       :created_at => (item/:created_at).inner_html,
+  #       :value => item,
+  #       :order_nr => (item/:id).first.inner_html
+  #     }
+  #   end
+  # end
+  #
+  # Then fetch data:
+  #
+  # tweets = FeedAggregate.find_all_by_name("twitter")
+  # tweets.each{|tweet| puts (tweet.value/:status/:text).inner_html}
+  #
+  def self.aggregate key, url, options = {}
+    items = yield Hpricot.XML(open(url))
+    if items
       items = items[0..options[:limit]-1] if options[:limit] && options[:limit].is_a?(Integer)
       # deletes all if no other delete method given, like :limit or :expire_after
       FeedAggregate.delete_all(:name => key) if !options[:limit] && !options[:expire_after]
@@ -46,18 +47,18 @@ class Lolita::FeedAggregator
           :order_nr => item[:order_nr]? item[:order_nr].to_i : nil
         )
       end
-
-      # deletes all that are out of limit range
-      FeedAggregate.find(:all, :conditions => {:name => key}, :offset => options[:limit], :limit => 2**32, :order => (options[:order]? options[:order] : "id DESC")).each{|item| item.destroy} if options[:limit]
-
-      # expires if older than needed
-      if options[:expire_after] && options[:expire_after].is_a?(Time)
-        FeedAggregate.delete_all ['created_at < ? and name = ?',options[:expire_after], key]
-      end
     end
+    # deletes all that are out of limit range
+    FeedAggregate.find(:all, :conditions => {:name => key}, :offset => options[:limit], :limit => 2**32, :order => (options[:order]? options[:order] : "id DESC")).each{|item| item.destroy} if options[:limit]
 
-    # runs when bin/run.rb is executed
-    def self.run
-      eval(open("#{RAILS_ROOT}/config/feed_aggregator.rb").read)
+    # expires if older than needed
+    if options[:expire_after] && options[:expire_after].is_a?(Time)
+      FeedAggregate.delete_all ['created_at < ? and name = ?',options[:expire_after], key]
     end
+  end
+
+  # runs when bin/run.rb is executed
+  def self.run
+    eval(open("#{RAILS_ROOT}/config/feed_aggregator.rb").read)
+  end
 end
