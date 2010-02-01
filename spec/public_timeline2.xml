@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512654</id>
+  <text>Work at Home, No signup fees, Unlimited Income: Work at Home, No signup fees, Unlimited Income Work at home withou... http://bit.ly/aCzE44</text>
+  <source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>97402991</id>
+    <name>Pakiads</name>
+    <screen_name>pakiads</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://s.twimg.com/a/1264550348/images/default_profile_0_normal.png</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>216</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>0</friends_count>
+    <created_at>Thu Dec 17 09:12:49 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset></utc_offset>
+    <time_zone></time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1264550348/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>1920</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512645</id>
+  <text>L&#228;ser att Marcus Birros favoritrestaurang i Stockholm &#228;r tyska pizzakedjan Vapiano - &quot;som halvitalienare jag &#228;r&quot;. #haha</text>
+  <source>&lt;a href=&quot;http://www.seesmic.com/&quot; rel=&quot;nofollow&quot;&gt;Seesmic&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>22470605</id>
+    <name>Daniel Swedin</name>
+    <screen_name>danielswedin</screen_name>
+    <location>V&#228;stra Fr&#246;lunda, Sverige</location>
+    <description>Frilansar som journalist och kolumnist. Anst&#228;lld som bitr. forskare p&#229; SOM-institutet.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/605764663/image_normal.jpg</profile_image_url>
+    <url>http://bit.ly/7bBCAA</url>
+    <protected>false</protected>
+    <followers_count>294</followers_count>
+    <profile_background_color>EFECCA</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>046380</profile_link_color>
+    <profile_sidebar_fill_color>EFECCA</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>4e1772</profile_sidebar_border_color>
+    <friends_count>275</friends_count>
+    <created_at>Mon Mar 02 09:54:57 +0000 2009</created_at>
+    <favourites_count>3</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Stockholm</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/19186797/logga3.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>4647</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512639</id>
+  <text>Haitian health care two step - Feds dumping the cost of treating Haitians on the states. http://viigo.im/2gYC</text>
+  <source>&lt;a href=&quot;http://viigo.com&quot; rel=&quot;nofollow&quot;&gt;Viigo&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14296882</id>
+    <name>Michael Stolp</name>
+    <screen_name>mstolp</screen_name>
+    <location>&#220;T: 33.61476,-111.939022</location>
+    <description>http://mstolp.cfofa.com</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/665416405/49466390_normal.jpg</profile_image_url>
+    <url>http://CFOfa.com</url>
+    <protected>false</protected>
+    <followers_count>2076</followers_count>
+    <profile_background_color>030003</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>2292</friends_count>
+    <created_at>Thu Apr 03 21:14:27 +0000 2008</created_at>
+    <favourites_count>39</favourites_count>
+    <utc_offset>-25200</utc_offset>
+    <time_zone>Arizona</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/2827153/meerkat.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>1077</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512634</id>
+  <text>Omg prince michael jackson has such a deep voice and he's only 12! His voice is deeper than justin biebers! Although that isn't hard!</text>
+  <source>&lt;a href=&quot;http://www.snaptu.com/a/twitter&quot; rel=&quot;nofollow&quot;&gt;Snaptu&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>18004755</id>
+    <name>Aisha</name>
+    <screen_name>Aisha101</screen_name>
+    <location>Planet Jedward.</location>
+    <description>I Am 18. Things that I love: Family.  Movies.  Music.  Books.  Heath Ledger. Arsenal.  Scrubs.  GaGa.  Johnny Depp.  Jedward. &#9829;</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/581551440/edward_and_me__normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>324</followers_count>
+    <profile_background_color>6bb5ed</profile_background_color>
+    <profile_text_color>ff0062</profile_text_color>
+    <profile_link_color>7e00bd</profile_link_color>
+    <profile_sidebar_fill_color>7cd1eb</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>f082a1</profile_sidebar_border_color>
+    <friends_count>578</friends_count>
+    <created_at>Tue Dec 09 22:31:17 +0000 2008</created_at>
+    <favourites_count>521</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>London</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/4745017/WhySoSerious.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>9938</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512633</id>
+  <text>&#8220;The Page Can&#8217;t Be Found&#8221; Coolest Error 404 Pages In Web Design @ SmashingApps - http://shar.es/aPP9f</text>
+  <source>&lt;a href=&quot;http://www.sharethis.com&quot; rel=&quot;nofollow&quot;&gt;ShareThis.com&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14091588</id>
+    <name>Nikki Backshall</name>
+    <screen_name>webmums</screen_name>
+    <location>South East / UK</location>
+    <description>I tweet tips for Internet biz owners. I focus on WordPress, Ecommerce, Social Media, SEO &amp; WAHM Issues &amp; I won&#8217;t ask u to buy my stuff or join my Mafia family!</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/460030564/Womancoffee_normal.jpg</profile_image_url>
+    <url>http://www.nikkibackshall.com/about/</url>
+    <protected>false</protected>
+    <followers_count>2610</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>3C3940</profile_text_color>
+    <profile_link_color>5cd2eb</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>fff</profile_sidebar_border_color>
+    <friends_count>2359</friends_count>
+    <created_at>Thu Mar 06 21:47:00 +0000 2008</created_at>
+    <favourites_count>26</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>London</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/70248845/twitter2.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>1284</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512632</id>
+  <text>@hikaru_bot &#12431;&#12363;&#12387;&#12383;&#12289;&#20170;&#12363;&#12425;&#12356;&#12367;&#12290;&#12473;&#12459;&#12452;&#12459;&#12540;&#12468;&#65281;</text>
+  <source>&lt;a href=&quot;http://apiwiki.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>8492508849</in_reply_to_status_id>
+  <in_reply_to_user_id>93302918</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>hikaru_bot</in_reply_to_screen_name>
+  <user>
+    <id>105791568</id>
+    <name>&#30333;&#29577;</name>
+    <screen_name>shiratamabot</screen_name>
+    <location>&#12490;&#12456;&#12373;&#12435;&#12398;&#12362;&#20596;&#12395;</location>
+    <description>&#12513;&#12480;&#12525;&#12483;&#12488;&#12471;&#12522;&#12540;&#12474;&#12398;&#30333;&#29577;bot&#12391;&#12377;&#12290;&#12490;&#12456;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#21599;&#12365;&#12414;&#12377;&#12290;&#36817;&#24180;&#31232;&#12395;&#12415;&#12427;&#22793;&#24907;&#20860;&#26524;&#12390;&#12375;&#12394;&#12367;&#39729;&#38518;&#12375;&#12356;&#12398;&#12391;&#27880;&#24847;&#12290;&#30333;&#29577;&#12399;&#12490;&#12456;&#12373;&#12435;&#12398;&#20107;&#12375;&#12363;&#38957;&#12395;&#12394;&#12356;&#12391;&#12377;&#12364;&#12289;&#20598;&#12395;&#26178;&#38291;&#24046;&#12391;&#12522;&#12503;&#12521;&#12452;&#36820;&#12375;&#12414;&#12377;&#12290;@&#12418;&#39131;&#12400;&#12375;&#12414;&#12377;&#12290;&#12388;&#12356;&#12390;&#12356;&#12369;&#12394;&#12367;&#12394;&#12387;&#12383;&#12425;&#12502;&#12525;&#12483;&#12463;&#25512;&#22888;&#12290;&#12356;&#12378;&#12428;&#12365;&#12385;&#12435;&#12392;&#20181;&#27096;&#26360;&#29992;&#24847;&#12375;&#12414;&#12377;&#12290;&#8251;&#26410;&#23436;&#25104;&#12391;&#12377;&#12290;&#35069;&#20316;&#32773;/ @roborobo_dan</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/637294287/shiratamabot_normal.jpg</profile_image_url>
+    <url>http://ameblo.jp/roborobo-dan/entry-10438513470.html</url>
+    <protected>false</protected>
+    <followers_count>50</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>47</friends_count>
+    <created_at>Sun Jan 17 13:57:44 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>32400</utc_offset>
+    <time_zone>Tokyo</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1264550348/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>1570</statuses_count>
+    <lang>ja</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512631</id>
+  <text>&#12393;&#12289;&#12393;&#12358;&#12379;&#27839;&#23736;&#37096;&#12384;&#12363;&#12425;&#38634;&#12392;&#12363;&#38477;&#12426;&#12414;&#12379;&#12435;&#12424;&#65281;&#38632;&#12384;&#12424;&#12358;&#12431;&#12354;&#12354;&#12354;&#12354;&#12354;&#12354;</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14626780</id>
+    <name>&#12364;&#12427;&#12427;&#12364;</name>
+    <screen_name>tqpprz</screen_name>
+    <location>&#21931;&#33590;&#12471;&#12515;&#12460;&#12540;&#12523;</location>
+    <description>&#29305;&#25774;/&#12450;&#12488;&#12521;&#12473;/&#12467;&#12490;&#12511;/&#12514;&#12531;&#12495;&#12531;/&#12493;&#12452;&#12486;&#12451;&#12458;/&#12452;&#12515;&#12531;&#12460;&#12523;&#12523;&#12460;&#12394;&#12393;&#12394;&#12393;&#12290;&#19968;&#24540;&#23398;&#29983;&#12391;&#12377;&#12290;&#12362;&#32117;&#12363;&#12365;&#12377;&#12365;&#12377;&#12365;&#65281;</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/662000925/twt002_normal.gif</profile_image_url>
+    <url>http://iddy.jp/profile/ictd_pprz/</url>
+    <protected>false</protected>
+    <followers_count>391</followers_count>
+    <profile_background_color>e85d00</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>ef6400</profile_link_color>
+    <profile_sidebar_fill_color>fed646</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>f06603</profile_sidebar_border_color>
+    <friends_count>412</friends_count>
+    <created_at>Fri May 02 15:13:43 +0000 2008</created_at>
+    <favourites_count>488</favourites_count>
+    <utc_offset>32400</utc_offset>
+    <time_zone>Tokyo</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/59148229/sweet_install.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>16407</statuses_count>
+    <lang>ja</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512626</id>
+  <text>These two guys are trying to re-enact the pon di floor video. #majorfail</text>
+  <source>&lt;a href=&quot;http://echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>21729888</id>
+    <name>Alex</name>
+    <screen_name>alexKAT</screen_name>
+    <location>Baldwin Park, CA</location>
+    <description></description>
+    <profile_image_url>http://a3.twimg.com/profile_images/653990781/4299386083_70e59b7d67_o_normal.jpg</profile_image_url>
+    <url>http://www.myspace.com/aliixxx</url>
+    <protected>false</protected>
+    <followers_count>200</followers_count>
+    <profile_background_color>000000</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>5c5c5c</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+    <friends_count>178</friends_count>
+    <created_at>Tue Feb 24 04:40:42 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1264550348/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>2196</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512622</id>
+  <text>@cathyremperas haizt kelan q den kaya mameet c cathy in person like d other cathyriffics..kakainggit naman... :( huhuhu</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>8491547504</in_reply_to_status_id>
+  <in_reply_to_user_id>87628831</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>cathyremperas</in_reply_to_screen_name>
+  <user>
+    <id>77972845</id>
+    <name>desiree salang</name>
+    <screen_name>certifiedbisaya</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://s.twimg.com/a/1264550348/images/default_profile_6_normal.png</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>13</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>30</friends_count>
+    <created_at>Mon Sep 28 09:42:01 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-32400</utc_offset>
+    <time_zone>Alaska</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1264550348/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>23</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512621</id>
+  <text>RT @switchwilder: DJSwitch is in the top5 dj's for the HYPE awards pls sms &quot;DJSwitch&quot; to 41931 for that NO.1 SPOT!</text>
+  <source>&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;mobile web&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweeted_status>
+    <created_at>Mon Feb 01 09:30:28 +0000 2010</created_at>
+    <id>8492439514</id>
+    <text>DJSwitch is in the top5 dj's for the HYPE awards pls sms &quot;DJSwitch&quot; to 41931 for that NO.1 SPOT!</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>28148219</id>
+      <name>Morgan van staden</name>
+      <screen_name>switchwilder</screen_name>
+      <location>South Africa</location>
+      <description>one hot DJ and loves the beat!</description>
+      <profile_image_url>http://a1.twimg.com/profile_images/624590980/DSC_0033_2_2_normal.jpg</profile_image_url>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>423</followers_count>
+      <profile_background_color>1A1B1F</profile_background_color>
+      <profile_text_color>666666</profile_text_color>
+      <profile_link_color>2FC2EF</profile_link_color>
+      <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+      <friends_count>174</friends_count>
+      <created_at>Wed Apr 01 17:22:57 +0000 2009</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-10800</utc_offset>
+      <time_zone>Greenland</time_zone>
+      <profile_background_image_url>http://a1.twimg.com/profile_background_images/46509430/Switch_logo1.jpg</profile_background_image_url>
+      <profile_background_tile>true</profile_background_tile>
+      <notifications></notifications>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <following></following>
+      <statuses_count>1536</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+    </user>
+    <geo/>
+    <contributors/>
+  </retweeted_status>
+  <user>
+    <id>37902566</id>
+    <name>Grace</name>
+    <screen_name>gracyk</screen_name>
+    <location>Johannesburg, South Africa</location>
+    <description>I'm ME, so who U, when I'm ME...</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/613624320/Miss_G_normal.JPG</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>113</followers_count>
+    <profile_background_color>FF6699</profile_background_color>
+    <profile_text_color>362720</profile_text_color>
+    <profile_link_color>B40B43</profile_link_color>
+    <profile_sidebar_fill_color>E5507E</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>CC3366</profile_sidebar_border_color>
+    <friends_count>193</friends_count>
+    <created_at>Tue May 05 11:14:08 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Greenland</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/64526264/Picture_065.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>460</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512619</id>
+  <text>Soir&#233;e mousse chez les Neuneu! http://twitpic.com/10u3kn</text>
+  <source>&lt;a href=&quot;http://echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14889732</id>
+    <name>parvatee</name>
+    <screen_name>parvatee</screen_name>
+    <location></location>
+    <description>10 years in digital business in music and film industry. art &amp; food lover. Brasil passionate </description>
+    <profile_image_url>http://a1.twimg.com/profile_images/667155652/jdtwitt2_normal.JPG</profile_image_url>
+    <url>http://www.facebook.com/parvatee</url>
+    <protected>false</protected>
+    <followers_count>51</followers_count>
+    <profile_background_color>e6e9eb</profile_background_color>
+    <profile_text_color>0a37b0</profile_text_color>
+    <profile_link_color>065e0e</profile_link_color>
+    <profile_sidebar_fill_color>7bcef7</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>75</friends_count>
+    <created_at>Sat May 24 09:50:09 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Paris</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/71336311/favela.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>true</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>89</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512618</id>
+  <text>RT @Ivonbartok: OK, &quot;I'm On A Boat&quot; was nominated for for Rap Grammy... awkward.</text>
+  <source>&lt;a href=&quot;http://www.seesmic.com/&quot; rel=&quot;nofollow&quot;&gt;Seesmic&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>24779600</id>
+    <name>Daniel Higgins</name>
+    <screen_name>pinkytweets</screen_name>
+    <location>Melbourne</location>
+    <description>A little bit political, a little more irreverant, unashamed Melbournite.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/578750295/dream_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>207</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>524</friends_count>
+    <created_at>Mon Mar 16 22:01:52 +0000 2009</created_at>
+    <favourites_count>38</favourites_count>
+    <utc_offset>36000</utc_offset>
+    <time_zone>Melbourne</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1264550348/images/themes/theme9/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>1212</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512614</id>
+  <text>@LightLoveAdam http://twitpic.com/10rx4l - OH MY.. what happened to her eyebrows!?</text>
+  <source>&lt;a href=&quot;http://twitpic.com/&quot; rel=&quot;nofollow&quot;&gt;TwitPic&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id>53352471</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>LightLoveAdam</in_reply_to_screen_name>
+  <user>
+    <id>35253261</id>
+    <name>Leyla unknown</name>
+    <screen_name>Leylaaa_x3</screen_name>
+    <location>Germany</location>
+    <description>Miss goody two shoes. ;D</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/584256121/leylaaa_normal.jpg</profile_image_url>
+    <url>http://www.myspace.com/a_girl_x3</url>
+    <protected>false</protected>
+    <followers_count>140</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>444444</profile_text_color>
+    <profile_link_color>5069d1</profile_link_color>
+    <profile_sidebar_fill_color>ff5589</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>444444</profile_sidebar_border_color>
+    <friends_count>34</friends_count>
+    <created_at>Sat Apr 25 16:48:07 +0000 2009</created_at>
+    <favourites_count>75</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Berlin</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/57781025/mqfancysplats.br.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>3939</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512613</id>
+  <text>I wish I played piano with Elton. Geez.</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14636029</id>
+    <name>luvthecanadian</name>
+    <screen_name>luvthecanadian</screen_name>
+    <location>Sherbrooke QC and Jericho, VT</location>
+    <description>I hope to eat soap.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/631715506/smallhead_normal.jpg</profile_image_url>
+    <url>http://www.youtube.com/luvthecanadian</url>
+    <protected>false</protected>
+    <followers_count>137</followers_count>
+    <profile_background_color>642D8B</profile_background_color>
+    <profile_text_color>3D1957</profile_text_color>
+    <profile_link_color>9903b0</profile_link_color>
+    <profile_sidebar_fill_color>8cf073</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>b88c90</profile_sidebar_border_color>
+    <friends_count>120</friends_count>
+    <created_at>Sat May 03 07:56:30 +0000 2008</created_at>
+    <favourites_count>5</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/54290347/psb.bmp</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>552</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512608</id>
+  <text>&#36825;&#37324;&#26159;&#28145;&#22323;</text>
+  <source>&lt;a href=&quot;http://twidroid.com&quot; rel=&quot;nofollow&quot;&gt;twidroid&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>95657204</id>
+    <name>Simon&#35199;&#38376;&#36798;&#20154;</name>
+    <screen_name>simon_qstone</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a3.twimg.com/profile_images/567830691/simon_normal.JPG</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>2</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>20</friends_count>
+    <created_at>Wed Dec 09 14:32:27 +0000 2009</created_at>
+    <favourites_count>2</favourites_count>
+    <utc_offset>28800</utc_offset>
+    <time_zone>Beijing</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1264550348/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>32</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512604</id>
+  <text>&#12373;&#12416;&#12356;&#12539;&#12539;&#12539;</text>
+  <source>&lt;a href=&quot;http://d.hatena.ne.jp/Kiri_Feather/20071121&quot; rel=&quot;nofollow&quot;&gt;Tween&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>23422117</id>
+    <name>&#12424;&#12391;&#12355;&#12540;</name>
+    <screen_name>kamody</screen_name>
+    <location>&#31119;&#23798;&#8594;&#26481;&#20140;</location>
+    <description>PSP/PS3/DS/&#26085;&#26412;&#19968;&#12477;&#12501;&#12488;&#12454;&#12455;&#12450;/&#12459;&#12503;&#12467;&#12531;/&#22826;&#40723;&#12398;&#36948;&#20154;/&#12509;&#12483;&#12503;&#12531;p/sony/panasonic/3DCG(Shade)/&#12487;&#12517;&#12521;&#12521;&#12521;/&#21270;&#29289;&#35486;/&#12477;&#12521;&#12494;&#12530;&#12488;/&#12402;&#12384;&#12414;&#12426;/&#12524;&#12540;&#12523;&#12460;&#12531;/&#12496;&#12459;&#12486;&#12473;/&#26032;&#25151;&#20316;&#21697;/&#12496;&#12459;&#12486;&#12473;/TMR/B'z/&#12509;&#12523;&#12494;/&#21561;&#22863;&#27005;/&#12469;&#12483;&#12463;&#12473;/&#12381;&#12398;&#20182;&#35576;&#12293;&#12539;&#12539;&#12539;&#33394;&#12293;&#22909;&#12365;&#12394;&#23398;&#29983;&#12391;&#12377;&#12290;&#12501;&#12457;&#12525;&#12540;&#12522;&#12512;&#12540;&#12502;&#24481;&#27671;&#36605;&#12395;&#65281;</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/654059746/icon2_normal.png</profile_image_url>
+    <url>http://www.pixiv.net/member.php?id=684709</url>
+    <protected>false</protected>
+    <followers_count>186</followers_count>
+    <profile_background_color>001342</profile_background_color>
+    <profile_text_color>007bff</profile_text_color>
+    <profile_link_color>9cc9ff</profile_link_color>
+    <profile_sidebar_fill_color>000000</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>ff0000</profile_sidebar_border_color>
+    <friends_count>198</friends_count>
+    <created_at>Mon Mar 09 10:41:22 +0000 2009</created_at>
+    <favourites_count>7</favourites_count>
+    <utc_offset>32400</utc_offset>
+    <time_zone>Tokyo</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/67158936/feel-the-air-dl.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>3746</statuses_count>
+    <lang>ja</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512600</id>
+  <text>Steve Jobs Is Not Happy With Google, Adobe http://bit.ly/aeBhNa</text>
+  <source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>22352409</id>
+    <name>Matrics</name>
+    <screen_name>Matrics</screen_name>
+    <location>010101010</location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/393905322/255_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>133</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0080ff</profile_link_color>
+    <profile_sidebar_fill_color>b5d2eb</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>b5d2eb</profile_sidebar_border_color>
+    <friends_count>0</friends_count>
+    <created_at>Sun Mar 01 11:00:01 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>New Delhi</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/33804128/background.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>4815</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512593</id>
+  <text>RT @RoyCampos: @Mitofsky_Group te sigo y no me sigues, puedes darme #FollowBack? ......... http://bit.ly/5OXkeY &amp;lt;- jaja despidalos!!</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>64333105</id>
+    <name>Roberto Glez Evia</name>
+    <screen_name>geroberto</screen_name>
+    <location>Tabasco, M&#233;xico</location>
+    <description>Ingeniero Siempre Aprendiendo</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/658088266/avatar3_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>224</followers_count>
+    <profile_background_color>111111</profile_background_color>
+    <profile_text_color>111111</profile_text_color>
+    <profile_link_color>17785d</profile_link_color>
+    <profile_sidebar_fill_color>59cfae</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>111111</profile_sidebar_border_color>
+    <friends_count>266</friends_count>
+    <created_at>Mon Aug 10 04:12:12 +0000 2009</created_at>
+    <favourites_count>13</favourites_count>
+    <utc_offset>-21600</utc_offset>
+    <time_zone>Mexico City</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/63954261/mqtheabyssiscalling.br.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>1207</statuses_count>
+    <lang>es</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512589</id>
+  <text>&#12373;&#12416;&#12377;&#12366;&#12390;&#12394;&#12395;&#12418;&#12391;&#12365;&#12394;&#12356;&#12392;&#12356;&#12358;&#12356;&#12356;&#12431;&#12369;</text>
+  <source>&lt;a href=&quot;http://movatwitter.jp/&quot; rel=&quot;nofollow&quot;&gt;movatwitter&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>73426901</id>
+    <name>&#22823;&#21451;&#12503;&#12522;&#12510;</name>
+    <screen_name>pcmjpcmj</screen_name>
+    <location>&#19978;&#12363;&#12425;2&#26412;&#30446;&#12398;&#30473;&#27611;</location>
+    <description>&#12383;&#12384;&#12398;&#27531;&#24565;&#12394;&#33104;&#22899;&#23376;&#12391;&#12377;&#12290;&#36942;&#21104;&#23492;&#12426;&#12394;&#12472;&#12519;&#12540;&#12459;&#12540;&#12392;&#12508;&#12467;&#12522;&#24859;&#12394;&#12489;&#12540;&#12532;&#12449;&#12540;&#12364;&#20027;&#39135;&#65281;&#24859;&#12422;&#12360;&#12395;&#19981;&#25003;&#12394;&#30473;&#27611;&#12364;&#22823;&#22909;&#29289;&#12391;&#12377;&#65310;&#65308;</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/411184176/CAHPNI57_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>57</followers_count>
+    <profile_background_color>f50e35</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>55</friends_count>
+    <created_at>Fri Sep 11 16:48:53 +0000 2009</created_at>
+    <favourites_count>148</favourites_count>
+    <utc_offset>-36000</utc_offset>
+    <time_zone>Hawaii</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1264550348/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>1201</statuses_count>
+    <lang>ja</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Feb 01 09:33:57 +0000 2010</created_at>
+  <id>8492512588</id>
+  <text>JobConcierge: Top 5 Industry Sectors Predicted To Show Employment Growth: An interesting set of statistics posted ... http://bit.ly/bcmIA8</text>
+  <source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>22634420</id>
+    <name>Job Concierge</name>
+    <screen_name>JobConcierge</screen_name>
+    <location></location>
+    <description>Human Powered Job Search - Real people search through 300 job boards to find you the right job and submit your apps. I don't read DMs-Contact me with the @ sign</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/455122495/logo-3_normal.jpg</profile_image_url>
+    <url>http://www.JobConcierge.com</url>
+    <protected>false</protected>
+    <followers_count>23247</followers_count>
+    <profile_background_color>4c4359</profile_background_color>
+    <profile_text_color>2d1a4d</profile_text_color>
+    <profile_link_color>57341a</profile_link_color>
+    <profile_sidebar_fill_color>a8a8ab</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>ffffff</profile_sidebar_border_color>
+    <friends_count>24289</friends_count>
+    <created_at>Tue Mar 03 15:28:58 +0000 2009</created_at>
+    <favourites_count>2</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/43608590/background114.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>942</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+</statuses>

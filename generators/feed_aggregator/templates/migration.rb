@@ -1,15 +1,15 @@
 class CreateFeedAggregates < ActiveRecord::Migration
   def self.up
-    create_table :aggregates do |t|
+    create_table :feed_aggregates do |t|
       t.string :name
-      t.string :value
-      t.integer :order
+      t.text :value
+      t.integer :order_nr, :limit => 15
       t.timestamps
     end
-    add_index :aggregates, :name
+    add_index :feed_aggregates, :name
   end
 
   def self.down
-    drop_table :aggregates
+    drop_table :feed_aggregates
   end
 end
