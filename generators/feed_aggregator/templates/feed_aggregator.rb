@@ -1,10 +1,11 @@
 # Twitter example
 #
-# aggregate(:twitter, "http://search.twitter.com/search.atom?q=from:gacha", :limit => 10) do |doc|
-#   (doc/:entry).collect do |item|
-#     {
-#       :created_at => (item/:published).inner_html,
-#       :value => (item/:content).inner_html
-#     }
-#   end
-# end
+#  aggregate(:twitter, "http://twitter.com/statuses/user_timeline.xml?screen_name=envylabs", :limit => 10) do |doc|
+#    (doc/:status).collect{ |item|
+#      {
+#        :created_at => (item/:created_at).inner_html,
+#        :value => item,
+#        :order_nr => (item/:id).first.inner_html
+#      } if (item/:text).inner_html =~ /(#Ruby5|#rails)/
+#    }.compact!
+#  end

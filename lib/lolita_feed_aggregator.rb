@@ -17,11 +17,12 @@ class Lolita::FeedAggregator
     #
     # Put this in config/feed_aggregator.rb
     #
-    # aggregate(:twitter, "http://search.twitter.com/search.atom?q=from:gacha", :limit => 10) do |doc|
-    #   (doc/:entry).collect do |item|
+    # aggregate(:twitter, "http://twitter.com/statuses/user_timeline.xml?screen_name=gacha", :limit => 10) do |doc|
+    #   (doc/:status).collect do |item|
     #     {
-    #       :created_at => (item/:published).inner_html,
-    #       :value => item
+    #       :created_at => (item/:created_at).inner_html,
+    #       :value => item,
+    #       :order_nr => (item/:id).first.inner_html
     #     }
     #   end
     # end
@@ -29,7 +30,7 @@ class Lolita::FeedAggregator
     # Then fetch data:
     #
     # tweets = FeedAggregate.find_all_by_name("twitter")
-    # tweets.each{|tweet| puts (tweet.value/:entry).inner_html}
+    # tweets.each{|tweet| puts (tweet.value/:status/:text).inner_html}
     #
     def self.aggregate key, url, options = {}
       items = yield Hpricot.XML(open(url))
@@ -38,7 +39,7 @@ class Lolita::FeedAggregator
       FeedAggregate.delete_all(:name => key) if !options[:limit] && !options[:expire_after]
       
       items.each do |item|
-        FeedAggregate.create!(
+        FeedAggregate.create(
           :name => key,
           :created_at => Time.parse(item[:created_at].to_s),
           :value => item[:value].to_s,
@@ -57,6 +58,6 @@ class Lolita::FeedAggregator
 
     # runs when bin/run.rb is executed
     def self.run
-      eval(open("#{RAILS_ROOT}/config/feed_aggregate.rb").read)
+      eval(open("#{RAILS_ROOT}/config/feed_aggregator.rb").read)
     end
 end
