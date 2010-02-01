@@ -1,1 +1,12 @@
-See Lolita::FeedAggregator
+=== Install
+
+    ruby script/plugin install git://github.com/ithouse/lolita_feed_aggregator.git
+    ruby script/generate feed_aggregator
+    rake db:migrate
+
+=== Usage
+
+  Edit config/feed_aggregator.rb
+
+
+More info in Lolita::FeedAggregator
