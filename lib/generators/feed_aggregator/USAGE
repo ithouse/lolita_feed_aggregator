@@ -1,0 +1,8 @@
+Description:
+    This generator creates the migrations
+
+Example:
+    rails generate feed_aggregator Thing
+
+    This will create:
+        what/will/it/create
