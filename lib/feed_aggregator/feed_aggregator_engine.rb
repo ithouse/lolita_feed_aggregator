@@ -3,5 +3,8 @@ require 'rails'
 
 module FeedAggregator
   class FeedAggregatorEngine < Rails::Engine
+    rake_tasks do
+      load "feed_aggregator/railties/tasks.rake"
+    end
   end
 end
