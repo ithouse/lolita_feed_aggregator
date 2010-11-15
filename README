@@ -6,7 +6,9 @@
 
 === Usage
 
-  Edit config/feed_aggregator.rb
+  1. edit `config/feed_aggregator.rb`
+  2. run `ruby script/runner Lolita::FeedAggregator.run`
+
 
 
 More info in Lolita::FeedAggregator

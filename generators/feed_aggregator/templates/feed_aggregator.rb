@@ -7,5 +7,5 @@
 #        :value => item,
 #        :order_nr => (item/:id).first.inner_html
 #      } if (item/:text).inner_html =~ /(#Ruby5|#rails)/
-#    }.compact!
+#    }.compact
 #  end
